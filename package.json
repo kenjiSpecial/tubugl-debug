@@ -1,6 +1,6 @@
 {
   "name": "tubugl-debugger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "debug tool for tubugl",
   "cjs": "build/tubu-debug.cjs.js",
   "module": "build/tubu-debug.esm.js",
@@ -34,5 +34,9 @@
     "rollup-plugin-commonjs": "^9.1.0",
     "rollup-plugin-node-resolve": "^3.3.0",
     "tubugl-3d-shape": "^1.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenjiSpecial/tubugl-debug" 
+ } 
 }

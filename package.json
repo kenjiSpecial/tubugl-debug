@@ -1,5 +1,5 @@
 {
-  "name": "tubugl-debugger",
+  "name": "tubugl-debug",
   "version": "1.0.1",
   "description": "debug tool for tubugl",
   "cjs": "build/tubu-debug.cjs.js",
